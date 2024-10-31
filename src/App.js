@@ -10,7 +10,7 @@ export default function App() {
         <footer>
           This project was coded by Kirsty H and is{" "}
           <a
-            href="https://snazzy-taiyaki-fc5a32.netlify.app"
+            href="https://github.com/kridtee/react-weather-final"
             target="_blank"
             rel="noreferrer"
           >
